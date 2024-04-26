@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+}
+
+.login-pf body {
+    background: url(../img/login-theme.sovity-background-without-logo.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 160px;
+    height: 100px;
+    background: url(../img/sovity_logo_light.svg);
+    background-size: 160px 100px;
+}
+
+.tc-card {
+    max-width: 700px !important;
+}
+
+.hidden{
+    display: none;
+}
