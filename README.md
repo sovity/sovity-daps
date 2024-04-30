@@ -39,7 +39,7 @@ sovity's implementation of the Dynamic Attribute Provisioning Service based on t
 
 There is an example deployment using Docker Compose, which will automatically build everything on startup.
 To use it, copy the file `.env.example` to `.env`
-and assign a secure `POSTGRES_PASSWORD`.
+and assign secure secrets, as described in the file.
 This setup uses PostgreSQL; however, any database supported by Keycloak can be used.
 
 The setup is configured for a local deployment using plaintext HTTP on port 8080.
