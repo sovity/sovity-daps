@@ -1,6 +1,7 @@
 services:
   keycloak:
     build: .
+    command: [start-dev]
     restart: always
     environment:
       KC_DB: postgres

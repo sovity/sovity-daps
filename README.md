@@ -49,6 +49,8 @@ the following environment variable adjustments are needed:
 - `KC_PROXY=edge`
 - `KC_HOSTNAME=keycloak.example.com`
 
+Additionally, the `start-dev` command should be removed from the `docker-compose.yml`.
+
 Further configuration options can be found in the official [Keycloak documentation](https://www.keycloak.org/server/all-config).
 
 ## Realm Configuration
