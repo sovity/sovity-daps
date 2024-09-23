@@ -1,5 +1,15 @@
 # Changelog
 
+## 24.0.5-1 - 2024-09-23
+
+### Overview
+
+Upgrade to Keycloak 24.0.5.
+
+#### Major Changes
+
+- Upgrade to Keycloak 24.0.5, fixing a number of upstream security issues
+
 ## 24.0.3-1 - 2024-04-29
 
 ### Overview
