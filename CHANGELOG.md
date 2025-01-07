@@ -1,14 +1,14 @@
 # Changelog
 
-## 26.0.2 - 2024-10-24
+## 26.0.7 - 2025-01-07
 
 ### Overview
 
-Upgrade to Keycloak 26.0.2
+Upgrade to Keycloak 26.0.7
 
-#### Minor Changes
+### Major Changes
 
-- Upgrade to Keycloak 26.0.2, fixing a number of bugs
+- Upgrade to Keycloak 26.0.7
 
 ## 24.0.3-1 - 2024-04-29
 
