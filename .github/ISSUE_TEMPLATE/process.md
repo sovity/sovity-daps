@@ -2,11 +2,9 @@
 name: Refine Process Request
 about: Existing processes must be adapted or new ones created
 title: ""
-labels: "task/documentation"
+labels: ["task/refine-process","task/documentation"]
 assignees: ""
 ---
-
-# Process Refinement Request
 
 ## Description
 <!-- Provide a brief description of the process that needs refinement and the reason behind it. -->
