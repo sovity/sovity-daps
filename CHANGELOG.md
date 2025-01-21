@@ -1,6 +1,6 @@
 # Changelog
 
-## 26.0.7 - 2025-01-07
+## 26.0.7-1 - 2025-01-21
 
 ### Overview
 
@@ -9,6 +9,10 @@ Upgrade to Keycloak 26.0.7
 ### Major Changes
 
 - Upgrade to Keycloak 26.0.7
+
+### Minor Changes
+
+- Update sovity theme's background image
 
 ## 24.0.3-1 - 2024-04-29
 
