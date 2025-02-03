@@ -46,8 +46,8 @@ The setup is configured for a local deployment using plaintext HTTP on port 8080
 For a production environment behind a TLS-terminating reverse proxy,
 the following environment variable adjustments are needed:
 
-- `KC_PROXY=edge`
-- `KC_HOSTNAME=keycloak.example.com`
+- `KC_PROXY_HEADERS=xforwarded`
+- `KC_HOSTNAME=https://keycloak.example.com`
 
 Additionally, the `start-dev` command should be removed from the `docker-compose.yml`.
 
