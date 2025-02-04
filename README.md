@@ -2,13 +2,7 @@
 icon: hand-wave
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sovity/edc-ui/d6242a1b3a8c1393921198ec2ef469da2a7111f7/src/assets/images/sovity_logo.svg" alt="sovity Logo" width="300"/>
-</div>
-
-# sovity DAPS
-
-sovity's implementation of the Dynamic Attribute Provisioning Service based on the Keycloak IAM platform.
+sovity's implementation of the Dynamic Attribute Provisioning Service (DAPS) based on the Keycloak IAM platform.
 
 ## Table of Contents
 
