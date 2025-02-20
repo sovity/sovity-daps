@@ -4,6 +4,10 @@ icon: hand-wave
 
 sovity's implementation of the Dynamic Attribute Provisioning Service (DAPS) based on the Keycloak IAM platform.
 
+{% hint style="danger" %} 
+DAPS must be used together with the DSPortal. There is no standalone support for DAPS offered by sovity.
+{% endhint %}
+
 ## Table of Contents
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
