@@ -1,6 +1,6 @@
 ---
-name: Documentation Update Request
-about: Create a report to help us improve our documentation
+name: (leaving soon) Documentation Update Request
+about: Leaving soon. Please use "(Form) Documentation Update Request" instead. Create a report to help us improve our documentation
 title: ""
 labels: "task/documentation"
 assignees: ""

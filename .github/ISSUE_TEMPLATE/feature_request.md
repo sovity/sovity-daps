@@ -1,6 +1,6 @@
 ---
-name: Feature Request
-about: Help us with new features
+name: (leaving soon) Feature Request
+about: Leaving soon. Please user the "Feature Request Form" instead. Help us with new features
 title: ""
 labels: "kind/enhancement"
 assignees: ""
@@ -28,10 +28,8 @@ As a {user} who {preconditions}, I want to {do something}, so I can {goal}.
 ## Solution Proposal and Work Breakdown
 <!-- If you already know what needs to be done, please add a tasklist. -->
 
-```[tasklist]
 - [ ] Fix the GitHub Projects Labels, Sprint and other Metadata
 - [ ] Refine a Solution Proposal / Work Breakdown
 - [ ] (For Tech Team): Include acceptance criteria for the sub-tasks of the work breakdown
 - [ ] Add security related tasks and checks
 - [ ] Final solution design has been challenged for security related topics
-```
